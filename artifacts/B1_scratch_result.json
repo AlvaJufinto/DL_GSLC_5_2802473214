@@ -1,0 +1,16 @@
+{
+  "experiment": "B1_scratch",
+  "description": "Baseline from scratch (without augmentation)",
+  "strategy": "B1_scratch",
+  "trainable_parameters": 11181642,
+  "total_parameters": 11181642,
+  "learning_rates": "{\"group_0\": 0.001}",
+  "epochs_ran": 12,
+  "best_epoch": 8,
+  "duration_seconds": 474.2399480000604,
+  "validation_loss": 1.8799130125880643,
+  "validation_accuracy": 0.39057239057239057,
+  "test_macro_f1": 0.369282861830736,
+  "generalization_gap_pp": 17.508417508417505,
+  "checkpoint": "artifacts\\checkpoints\\B1_scratch.pt"
+}

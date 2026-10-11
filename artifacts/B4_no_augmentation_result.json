@@ -1,0 +1,16 @@
+{
+  "experiment": "B4_no_augmentation",
+  "description": "B4 control: feature extraction without augmentation",
+  "strategy": "B2_feature_extraction",
+  "trainable_parameters": 5130,
+  "total_parameters": 11181642,
+  "learning_rates": "{\"group_0\": 0.001}",
+  "epochs_ran": 16,
+  "best_epoch": 12,
+  "duration_seconds": 216.24803390004672,
+  "validation_loss": 0.2236470340904764,
+  "validation_accuracy": 0.9393939393939394,
+  "test_macro_f1": 0.9264838125651729,
+  "generalization_gap_pp": 1.5873015873015817,
+  "checkpoint": "artifacts\\checkpoints\\B4_no_augmentation.pt"
+}

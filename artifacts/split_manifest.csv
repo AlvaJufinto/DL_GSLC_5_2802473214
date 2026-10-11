@@ -1,0 +1,1982 @@
+split,reference_index,target,class_name
+train,1667,2,Birman
+train,1130,5,American Bulldog
+train,1649,2,Birman
+train,374,3,Bombay
+train,1727,3,Bombay
+train,1117,5,American Bulldog
+train,872,3,Bombay
+train,73,5,American Bulldog
+train,457,4,British Shorthair
+train,1639,2,Birman
+train,1659,2,Birman
+train,1918,4,British Shorthair
+train,541,0,Abyssinian
+train,1378,7,Basset Hound
+train,610,6,American Pit Bull Terrier
+train,952,4,British Shorthair
+train,1458,8,Beagle
+train,835,2,Birman
+train,1850,9,Boxer
+train,777,1,Bengal
+train,701,8,Beagle
+train,253,1,Bengal
+train,804,2,Birman
+train,437,9,Boxer
+train,616,6,American Pit Bull Terrier
+train,1851,9,Boxer
+train,305,2,Birman
+train,1201,6,American Pit Bull Terrier
+train,1501,1,Bengal
+train,950,4,British Shorthair
+train,1024,0,Abyssinian
+train,1634,2,Birman
+train,515,0,Abyssinian
+train,1064,0,Abyssinian
+train,1530,1,Bengal
+train,997,0,Abyssinian
+train,642,6,American Pit Bull Terrier
+train,220,8,Beagle
+train,5,0,Abyssinian
+train,1742,3,Bombay
+train,1682,2,Birman
+train,1523,1,Bengal
+train,11,0,Abyssinian
+train,578,5,American Bulldog
+train,243,8,Beagle
+train,441,9,Boxer
+train,1035,0,Abyssinian
+train,266,1,Bengal
+train,1520,1,Bengal
+train,703,8,Beagle
+train,30,0,Abyssinian
+train,624,6,American Pit Bull Terrier
+train,1326,7,Basset Hound
+train,1607,2,Birman
+train,1176,5,American Bulldog
+train,1535,1,Bengal
+train,1182,5,American Bulldog
+train,668,7,Basset Hound
+train,959,4,British Shorthair
+train,464,4,British Shorthair
+train,1839,9,Boxer
+train,814,2,Birman
+train,485,4,British Shorthair
+train,629,6,American Pit Bull Terrier
+train,702,8,Beagle
+train,1107,5,American Bulldog
+train,1227,6,American Pit Bull Terrier
+train,771,1,Bengal
+train,1323,7,Basset Hound
+train,539,0,Abyssinian
+train,1363,7,Basset Hound
+train,1137,5,American Bulldog
+train,1575,1,Bengal
+train,1474,8,Beagle
+train,575,5,American Bulldog
+train,1791,9,Boxer
+train,1942,4,British Shorthair
+train,1606,2,Birman
+train,1365,7,Basset Hound
+train,80,5,American Bulldog
+train,279,1,Bengal
+train,1110,5,American Bulldog
+train,1393,7,Basset Hound
+train,528,0,Abyssinian
+train,1315,7,Basset Hound
+train,1362,7,Basset Hound
+train,1322,7,Basset Hound
+train,326,2,Birman
+train,1964,4,British Shorthair
+train,1685,2,Birman
+train,1421,8,Beagle
+train,1920,4,British Shorthair
+train,1300,7,Basset Hound
+train,1468,8,Beagle
+train,45,0,Abyssinian
+train,1278,6,American Pit Bull Terrier
+train,1898,4,British Shorthair
+train,890,3,Bombay
+train,1467,8,Beagle
+train,1387,7,Basset Hound
+train,1070,0,Abyssinian
+train,319,2,Birman
+train,182,7,Basset Hound
+train,1504,1,Bengal
+train,847,2,Birman
+train,832,2,Birman
+train,628,6,American Pit Bull Terrier
+train,60,5,American Bulldog
+train,1694,3,Bombay
+train,1004,0,Abyssinian
+train,1605,2,Birman
+train,807,2,Birman
+train,1096,5,American Bulldog
+train,514,0,Abyssinian
+train,922,9,Boxer
+train,604,6,American Pit Bull Terrier
+train,296,1,Bengal
+train,1445,8,Beagle
+train,1436,8,Beagle
+train,754,1,Bengal
+train,47,0,Abyssinian
+train,1923,4,British Shorthair
+train,524,0,Abyssinian
+train,1809,9,Boxer
+train,1830,9,Boxer
+train,1354,7,Basset Hound
+train,549,5,American Bulldog
+train,152,7,Basset Hound
+train,1019,0,Abyssinian
+train,1312,7,Basset Hound
+train,825,2,Birman
+train,1665,2,Birman
+train,1014,0,Abyssinian
+train,1028,0,Abyssinian
+train,1723,3,Bombay
+train,611,6,American Pit Bull Terrier
+train,876,3,Bombay
+train,627,6,American Pit Bull Terrier
+train,1921,4,British Shorthair
+train,29,0,Abyssinian
+train,1567,1,Bengal
+train,233,8,Beagle
+train,1219,6,American Pit Bull Terrier
+train,839,2,Birman
+train,115,6,American Pit Bull Terrier
+train,1914,4,British Shorthair
+train,483,4,British Shorthair
+train,1171,5,American Bulldog
+train,992,4,British Shorthair
+train,1946,4,British Shorthair
+train,867,3,Bombay
+train,1133,5,American Bulldog
+train,1131,5,American Bulldog
+train,6,0,Abyssinian
+train,1673,2,Birman
+train,1043,0,Abyssinian
+train,1208,6,American Pit Bull Terrier
+train,1843,9,Boxer
+train,408,9,Boxer
+train,933,9,Boxer
+train,1491,8,Beagle
+train,728,8,Beagle
+train,1114,5,American Bulldog
+train,1774,3,Bombay
+train,1248,6,American Pit Bull Terrier
+train,74,5,American Bulldog
+train,685,7,Basset Hound
+train,1848,9,Boxer
+train,244,8,Beagle
+train,1447,8,Beagle
+train,1225,6,American Pit Bull Terrier
+train,120,6,American Pit Bull Terrier
+train,1008,0,Abyssinian
+train,285,1,Bengal
+train,1702,3,Bombay
+train,1091,0,Abyssinian
+train,1894,4,British Shorthair
+train,597,5,American Bulldog
+train,764,1,Bengal
+train,1709,3,Bombay
+train,1303,7,Basset Hound
+train,919,9,Boxer
+train,1329,7,Basset Hound
+train,397,3,Bombay
+train,1011,0,Abyssinian
+train,1708,3,Bombay
+train,143,6,American Pit Bull Terrier
+train,1656,2,Birman
+train,1098,5,American Bulldog
+train,289,1,Bengal
+train,1879,9,Boxer
+train,90,5,American Bulldog
+train,391,3,Bombay
+train,1792,9,Boxer
+train,569,5,American Bulldog
+train,1796,9,Boxer
+train,1381,7,Basset Hound
+train,1277,6,American Pit Bull Terrier
+train,148,6,American Pit Bull Terrier
+train,1528,1,Bengal
+train,1857,9,Boxer
+train,1890,4,British Shorthair
+train,608,6,American Pit Bull Terrier
+train,609,6,American Pit Bull Terrier
+train,53,5,American Bulldog
+train,1275,6,American Pit Bull Terrier
+train,218,8,Beagle
+train,356,3,Bombay
+train,1477,8,Beagle
+train,659,7,Basset Hound
+train,1626,2,Birman
+train,1343,7,Basset Hound
+train,1177,5,American Bulldog
+train,805,2,Birman
+train,302,2,Birman
+train,1105,5,American Bulldog
+train,1302,7,Basset Hound
+train,1666,2,Birman
+train,905,9,Boxer
+train,1568,1,Bengal
+train,431,9,Boxer
+train,261,1,Bengal
+train,1724,3,Bombay
+train,371,3,Bombay
+train,1687,2,Birman
+train,127,6,American Pit Bull Terrier
+train,1660,2,Birman
+train,815,2,Birman
+train,275,1,Bengal
+train,1263,6,American Pit Bull Terrier
+train,32,0,Abyssinian
+train,490,4,British Shorthair
+train,1379,7,Basset Hound
+train,1252,6,American Pit Bull Terrier
+train,1199,6,American Pit Bull Terrier
+train,1229,6,American Pit Bull Terrier
+train,1142,5,American Bulldog
+train,1858,9,Boxer
+train,1211,6,American Pit Bull Terrier
+train,1595,2,Birman
+train,663,7,Basset Hound
+train,1188,5,American Bulldog
+train,380,3,Bombay
+train,1543,1,Bengal
+train,1179,5,American Bulldog
+train,24,0,Abyssinian
+train,650,7,Basset Hound
+train,693,7,Basset Hound
+train,1010,0,Abyssinian
+train,389,3,Bombay
+train,1490,8,Beagle
+train,1197,6,American Pit Bull Terrier
+train,518,0,Abyssinian
+train,1482,8,Beagle
+train,1833,9,Boxer
+train,662,7,Basset Hound
+train,1422,8,Beagle
+train,1612,2,Birman
+train,1780,3,Bombay
+train,1291,6,American Pit Bull Terrier
+train,655,7,Basset Hound
+train,1036,0,Abyssinian
+train,1784,9,Boxer
+train,432,9,Boxer
+train,654,7,Basset Hound
+train,1585,1,Bengal
+train,1794,9,Boxer
+train,219,8,Beagle
+train,820,2,Birman
+train,103,6,American Pit Bull Terrier
+train,559,5,American Bulldog
+train,1478,8,Beagle
+train,908,9,Boxer
+train,990,4,British Shorthair
+train,710,8,Beagle
+train,227,8,Beagle
+train,1580,1,Bengal
+train,577,5,American Bulldog
+train,403,9,Boxer
+train,1164,5,American Bulldog
+train,1375,7,Basset Hound
+train,102,6,American Pit Bull Terrier
+train,803,2,Birman
+train,522,0,Abyssinian
+train,1442,8,Beagle
+train,772,1,Bengal
+train,1884,4,British Shorthair
+train,1485,8,Beagle
+train,1200,6,American Pit Bull Terrier
+train,884,3,Bombay
+train,1545,1,Bengal
+train,1751,3,Bombay
+train,1510,1,Bengal
+train,1737,3,Bombay
+train,734,8,Beagle
+train,852,3,Bombay
+train,450,4,British Shorthair
+train,1479,8,Beagle
+train,250,1,Bengal
+train,1571,1,Bengal
+train,68,5,American Bulldog
+train,1609,2,Birman
+train,372,3,Bombay
+train,117,6,American Pit Bull Terrier
+train,1060,0,Abyssinian
+train,480,4,British Shorthair
+train,583,5,American Bulldog
+train,505,0,Abyssinian
+train,866,3,Bombay
+train,763,1,Bengal
+train,399,9,Boxer
+train,1636,2,Birman
+train,631,6,American Pit Bull Terrier
+train,695,7,Basset Hound
+train,1926,4,British Shorthair
+train,317,2,Birman
+train,1465,8,Beagle
+train,625,6,American Pit Bull Terrier
+train,782,1,Bengal
+train,1788,9,Boxer
+train,114,6,American Pit Bull Terrier
+train,304,2,Birman
+train,458,4,British Shorthair
+train,31,0,Abyssinian
+train,282,1,Bengal
+train,878,3,Bombay
+train,909,9,Boxer
+train,778,1,Bengal
+train,1069,0,Abyssinian
+train,556,5,American Bulldog
+train,1173,5,American Bulldog
+train,774,1,Bengal
+train,1055,0,Abyssinian
+train,1686,2,Birman
+train,1947,4,British Shorthair
+train,138,6,American Pit Bull Terrier
+train,1054,0,Abyssinian
+train,1852,9,Boxer
+train,1539,1,Bengal
+train,1337,7,Basset Hound
+train,1195,6,American Pit Bull Terrier
+train,1730,3,Bombay
+train,915,9,Boxer
+train,948,4,British Shorthair
+train,311,2,Birman
+train,339,2,Birman
+train,1897,4,British Shorthair
+train,1641,2,Birman
+train,36,0,Abyssinian
+train,1335,7,Basset Hound
+train,491,4,British Shorthair
+train,1243,6,American Pit Bull Terrier
+train,1231,6,American Pit Bull Terrier
+train,409,9,Boxer
+train,1341,7,Basset Hound
+train,808,2,Birman
+train,1386,7,Basset Hound
+train,1903,4,British Shorthair
+train,28,0,Abyssinian
+train,1911,4,British Shorthair
+train,1781,3,Bombay
+train,1834,9,Boxer
+train,547,0,Abyssinian
+train,1525,1,Bengal
+train,1933,4,British Shorthair
+train,607,6,American Pit Bull Terrier
+train,1383,7,Basset Hound
+train,1716,3,Bombay
+train,1549,1,Bengal
+train,1009,0,Abyssinian
+train,154,7,Basset Hound
+train,1380,7,Basset Hound
+train,281,1,Bengal
+train,1793,9,Boxer
+train,1720,3,Bombay
+train,717,8,Beagle
+train,1909,4,British Shorthair
+train,1875,9,Boxer
+train,1645,2,Birman
+train,46,0,Abyssinian
+train,313,2,Birman
+train,1189,5,American Bulldog
+train,790,1,Bengal
+train,525,0,Abyssinian
+train,1735,3,Bombay
+train,925,9,Boxer
+train,27,0,Abyssinian
+train,567,5,American Bulldog
+train,1163,5,American Bulldog
+train,545,0,Abyssinian
+train,185,7,Basset Hound
+train,964,4,British Shorthair
+train,510,0,Abyssinian
+train,783,1,Bengal
+train,271,1,Bengal
+train,1766,3,Bombay
+train,293,1,Bengal
+train,1052,0,Abyssinian
+train,477,4,British Shorthair
+train,779,1,Bengal
+train,330,2,Birman
+train,784,1,Bengal
+train,836,2,Birman
+train,552,5,American Bulldog
+train,1245,6,American Pit Bull Terrier
+train,1101,5,American Bulldog
+train,1838,9,Boxer
+train,1915,4,British Shorthair
+train,97,5,American Bulldog
+train,467,4,British Shorthair
+train,1972,4,British Shorthair
+train,1963,4,British Shorthair
+train,1311,7,Basset Hound
+train,1424,8,Beagle
+train,1305,7,Basset Hound
+train,1094,5,American Bulldog
+train,813,2,Birman
+train,527,0,Abyssinian
+train,1476,8,Beagle
+train,792,1,Bengal
+train,473,4,British Shorthair
+train,916,9,Boxer
+train,1826,9,Boxer
+train,15,0,Abyssinian
+train,487,4,British Shorthair
+train,656,7,Basset Hound
+train,776,1,Bengal
+train,1783,9,Boxer
+train,1866,9,Boxer
+train,157,7,Basset Hound
+train,870,3,Bombay
+train,887,3,Bombay
+train,1939,4,British Shorthair
+train,861,3,Bombay
+train,1562,1,Bengal
+train,478,4,British Shorthair
+train,267,1,Bengal
+train,1861,9,Boxer
+train,224,8,Beagle
+train,1691,2,Birman
+train,1503,1,Bengal
+train,241,8,Beagle
+train,1593,1,Bengal
+train,445,9,Boxer
+train,877,3,Bombay
+train,1264,6,American Pit Bull Terrier
+train,294,1,Bengal
+train,459,4,British Shorthair
+train,1527,1,Bengal
+train,826,2,Birman
+train,1862,9,Boxer
+train,404,9,Boxer
+train,497,4,British Shorthair
+train,173,7,Basset Hound
+train,400,9,Boxer
+train,246,8,Beagle
+train,531,0,Abyssinian
+train,516,0,Abyssinian
+train,1518,1,Bengal
+train,970,4,British Shorthair
+train,301,2,Birman
+train,1194,6,American Pit Bull Terrier
+train,751,1,Bengal
+train,1584,1,Bengal
+train,254,1,Bengal
+train,1266,6,American Pit Bull Terrier
+train,248,8,Beagle
+train,98,5,American Bulldog
+train,1701,3,Bombay
+train,1810,9,Boxer
+train,600,6,American Pit Bull Terrier
+train,761,1,Bengal
+train,1286,6,American Pit Bull Terrier
+train,1331,7,Basset Hound
+train,589,5,American Bulldog
+train,137,6,American Pit Bull Terrier
+train,358,3,Bombay
+train,1771,3,Bombay
+train,1367,7,Basset Hound
+train,1463,8,Beagle
+train,208,8,Beagle
+train,1095,5,American Bulldog
+train,1103,5,American Bulldog
+train,1416,8,Beagle
+train,1747,3,Bombay
+train,142,6,American Pit Bull Terrier
+train,1642,2,Birman
+train,270,1,Bengal
+train,856,3,Bombay
+train,895,3,Bombay
+train,278,1,Bengal
+train,1961,4,British Shorthair
+train,39,0,Abyssinian
+train,638,6,American Pit Bull Terrier
+train,1873,9,Boxer
+train,1168,5,American Bulldog
+train,312,2,Birman
+train,229,8,Beagle
+train,424,9,Boxer
+train,1135,5,American Bulldog
+train,92,5,American Bulldog
+train,1023,0,Abyssinian
+train,1653,2,Birman
+train,1695,3,Bombay
+train,1175,5,American Bulldog
+train,1495,1,Bengal
+train,1086,0,Abyssinian
+train,1462,8,Beagle
+train,882,3,Bombay
+train,1845,9,Boxer
+train,1646,2,Birman
+train,1878,9,Boxer
+train,1161,5,American Bulldog
+train,1551,1,Bengal
+train,568,5,American Bulldog
+train,926,9,Boxer
+train,1087,0,Abyssinian
+train,648,6,American Pit Bull Terrier
+train,489,4,British Shorthair
+train,639,6,American Pit Bull Terrier
+train,86,5,American Bulldog
+train,957,4,British Shorthair
+train,849,3,Bombay
+train,533,0,Abyssinian
+train,85,5,American Bulldog
+train,765,1,Bengal
+train,1598,2,Birman
+train,690,7,Basset Hound
+train,1832,9,Boxer
+train,1804,9,Boxer
+train,351,3,Bombay
+train,1500,1,Bengal
+train,1841,9,Boxer
+train,1259,6,American Pit Bull Terrier
+train,500,0,Abyssinian
+train,1749,3,Bombay
+train,912,9,Boxer
+train,1616,2,Birman
+train,588,5,American Bulldog
+train,1748,3,Bombay
+train,689,7,Basset Hound
+train,1589,1,Bengal
+train,1745,3,Bombay
+train,1661,2,Birman
+train,917,9,Boxer
+train,1930,4,British Shorthair
+train,320,2,Birman
+train,1108,5,American Bulldog
+train,66,5,American Bulldog
+train,906,9,Boxer
+train,1145,5,American Bulldog
+train,1358,7,Basset Hound
+train,204,8,Beagle
+train,669,7,Basset Hound
+train,16,0,Abyssinian
+train,923,9,Boxer
+train,67,5,American Bulldog
+train,421,9,Boxer
+train,1256,6,American Pit Bull Terrier
+train,821,2,Birman
+train,1512,1,Bengal
+train,42,0,Abyssinian
+train,823,2,Birman
+train,1865,9,Boxer
+train,888,3,Bombay
+train,414,9,Boxer
+train,1247,6,American Pit Bull Terrier
+train,517,0,Abyssinian
+train,1284,6,American Pit Bull Terrier
+train,276,1,Bengal
+train,1882,4,British Shorthair
+train,1692,2,Birman
+train,846,2,Birman
+train,1041,0,Abyssinian
+train,129,6,American Pit Bull Terrier
+train,753,1,Bengal
+train,1058,0,Abyssinian
+train,1115,5,American Bulldog
+train,1824,9,Boxer
+train,151,7,Basset Hound
+train,546,0,Abyssinian
+train,1725,3,Bombay
+train,202,8,Beagle
+train,971,4,British Shorthair
+train,586,5,American Bulldog
+train,434,9,Boxer
+train,376,3,Bombay
+train,265,1,Bengal
+train,1732,3,Bombay
+train,1203,6,American Pit Bull Terrier
+train,535,0,Abyssinian
+train,730,8,Beagle
+train,1178,5,American Bulldog
+train,1912,4,British Shorthair
+train,1886,4,British Shorthair
+train,331,2,Birman
+train,310,2,Birman
+train,1455,8,Beagle
+train,1499,1,Bengal
+train,617,6,American Pit Bull Terrier
+train,678,7,Basset Hound
+train,937,9,Boxer
+train,1674,2,Birman
+train,830,2,Birman
+train,910,9,Boxer
+train,982,4,British Shorthair
+train,1046,0,Abyssinian
+train,1960,4,British Shorthair
+train,2,0,Abyssinian
+train,1825,9,Boxer
+train,57,5,American Bulldog
+train,787,1,Bengal
+train,1944,4,British Shorthair
+train,283,1,Bengal
+train,871,3,Bombay
+train,995,4,British Shorthair
+train,1564,1,Bengal
+train,364,3,Bombay
+train,623,6,American Pit Bull Terrier
+train,1216,6,American Pit Bull Terrier
+train,1417,8,Beagle
+train,84,5,American Bulldog
+train,1327,7,Basset Hound
+train,786,1,Bengal
+train,862,3,Bombay
+train,720,8,Beagle
+train,1526,1,Bengal
+train,429,9,Boxer
+train,962,4,British Shorthair
+train,140,6,American Pit Bull Terrier
+train,475,4,British Shorthair
+train,1152,5,American Bulldog
+train,775,1,Bengal
+train,936,9,Boxer
+train,1232,6,American Pit Bull Terrier
+train,492,4,British Shorthair
+train,1896,4,British Shorthair
+train,1560,1,Bengal
+train,947,4,British Shorthair
+train,760,1,Bengal
+train,144,6,American Pit Bull Terrier
+train,1403,8,Beagle
+train,1287,6,American Pit Bull Terrier
+train,1433,8,Beagle
+train,1250,6,American Pit Bull Terrier
+train,1892,4,British Shorthair
+train,1908,4,British Shorthair
+train,1876,9,Boxer
+train,1919,4,British Shorthair
+train,79,5,American Bulldog
+train,725,8,Beagle
+train,1515,1,Bengal
+train,468,4,British Shorthair
+train,799,2,Birman
+train,452,4,British Shorthair
+train,1690,2,Birman
+train,147,6,American Pit Bull Terrier
+train,190,7,Basset Hound
+train,1906,4,British Shorthair
+train,953,4,British Shorthair
+train,1629,2,Birman
+train,100,6,American Pit Bull Terrier
+train,1061,0,Abyssinian
+train,19,0,Abyssinian
+train,800,2,Birman
+train,1207,6,American Pit Bull Terrier
+train,1270,6,American Pit Bull Terrier
+train,1706,3,Bombay
+train,1739,3,Bombay
+train,141,6,American Pit Bull Terrier
+train,61,5,American Bulldog
+train,1842,9,Boxer
+train,1350,7,Basset Hound
+train,931,9,Boxer
+train,1461,8,Beagle
+train,111,6,American Pit Bull Terrier
+train,1948,4,British Shorthair
+train,1292,6,American Pit Bull Terrier
+train,425,9,Boxer
+train,1333,7,Basset Hound
+train,748,8,Beagle
+train,1078,0,Abyssinian
+train,41,0,Abyssinian
+train,637,6,American Pit Bull Terrier
+train,26,0,Abyssinian
+train,446,9,Boxer
+train,116,6,American Pit Bull Terrier
+train,1007,0,Abyssinian
+train,978,4,British Shorthair
+train,1555,1,Bengal
+train,1550,1,Bengal
+train,345,2,Birman
+train,299,1,Bengal
+train,513,0,Abyssinian
+train,1625,2,Birman
+train,886,3,Bombay
+train,1113,5,American Bulldog
+train,961,4,British Shorthair
+train,1394,8,Beagle
+train,235,8,Beagle
+train,1100,5,American Bulldog
+train,614,6,American Pit Bull Terrier
+train,1224,6,American Pit Bull Terrier
+train,130,6,American Pit Bull Terrier
+train,1934,4,British Shorthair
+train,1704,3,Bombay
+train,1170,5,American Bulldog
+train,406,9,Boxer
+train,1022,0,Abyssinian
+train,553,5,American Bulldog
+train,1752,3,Bombay
+train,1015,0,Abyssinian
+train,511,0,Abyssinian
+train,902,9,Boxer
+train,714,8,Beagle
+train,1162,5,American Bulldog
+train,1601,2,Birman
+train,1072,0,Abyssinian
+train,562,5,American Bulldog
+train,1818,9,Boxer
+train,1820,9,Boxer
+train,742,8,Beagle
+train,769,1,Bengal
+train,1109,5,American Bulldog
+train,1283,6,American Pit Bull Terrier
+train,733,8,Beagle
+train,1121,5,American Bulldog
+train,415,9,Boxer
+train,557,5,American Bulldog
+train,930,9,Boxer
+train,1722,3,Bombay
+train,1542,1,Bengal
+train,868,3,Bombay
+train,1916,4,British Shorthair
+train,1281,6,American Pit Bull Terrier
+train,1269,6,American Pit Bull Terrier
+train,83,5,American Bulldog
+train,1089,0,Abyssinian
+train,793,1,Bengal
+train,1034,0,Abyssinian
+train,1546,1,Bengal
+train,1220,6,American Pit Bull Terrier
+train,1778,3,Bombay
+train,191,7,Basset Hound
+train,755,1,Bengal
+train,1415,8,Beagle
+train,360,3,Bombay
+train,550,5,American Bulldog
+train,51,5,American Bulldog
+train,1385,7,Basset Hound
+train,619,6,American Pit Bull Terrier
+train,530,0,Abyssinian
+train,52,5,American Bulldog
+train,123,6,American Pit Bull Terrier
+train,715,8,Beagle
+train,1093,0,Abyssinian
+train,596,5,American Bulldog
+train,582,5,American Bulldog
+train,960,4,British Shorthair
+train,1042,0,Abyssinian
+train,1644,2,Birman
+train,362,3,Bombay
+train,828,2,Birman
+train,713,8,Beagle
+train,1048,0,Abyssinian
+train,756,1,Bengal
+train,1439,8,Beagle
+train,955,4,British Shorthair
+train,802,2,Birman
+train,979,4,British Shorthair
+train,1582,1,Bengal
+train,1251,6,American Pit Bull Terrier
+train,850,3,Bombay
+train,664,7,Basset Hound
+train,1063,0,Abyssinian
+train,1068,0,Abyssinian
+train,35,0,Abyssinian
+train,77,5,American Bulldog
+train,268,1,Bengal
+train,621,6,American Pit Bull Terrier
+train,674,7,Basset Hound
+train,155,7,Basset Hound
+train,892,3,Bombay
+train,1234,6,American Pit Bull Terrier
+train,1494,1,Bengal
+train,222,8,Beagle
+train,1000,0,Abyssinian
+train,108,6,American Pit Bull Terrier
+train,95,5,American Bulldog
+train,126,6,American Pit Bull Terrier
+train,174,7,Basset Hound
+train,918,9,Boxer
+train,454,4,British Shorthair
+train,789,1,Bengal
+train,329,2,Birman
+train,543,0,Abyssinian
+train,1082,0,Abyssinian
+train,284,1,Bengal
+train,160,7,Basset Hound
+train,1688,2,Birman
+train,336,2,Birman
+train,10,0,Abyssinian
+train,1020,0,Abyssinian
+train,1658,2,Birman
+train,544,0,Abyssinian
+train,1871,9,Boxer
+train,209,8,Beagle
+train,697,7,Basset Hound
+train,215,8,Beagle
+train,1149,5,American Bulldog
+train,1440,8,Beagle
+train,1165,5,American Bulldog
+train,1767,3,Bombay
+train,465,4,British Shorthair
+train,1547,1,Bengal
+train,1764,3,Bombay
+train,38,0,Abyssinian
+train,1033,0,Abyssinian
+train,1819,9,Boxer
+train,593,5,American Bulldog
+train,1937,4,British Shorthair
+train,1955,4,British Shorthair
+train,1627,2,Birman
+train,133,6,American Pit Bull Terrier
+train,1279,6,American Pit Bull Terrier
+train,676,7,Basset Hound
+train,864,3,Bombay
+train,417,9,Boxer
+train,883,3,Bombay
+train,132,6,American Pit Bull Terrier
+train,558,5,American Bulldog
+train,375,3,Bombay
+train,1374,7,Basset Hound
+train,798,1,Bengal
+train,724,8,Beagle
+train,665,7,Basset Hound
+train,1519,1,Bengal
+train,272,1,Bengal
+train,1814,9,Boxer
+train,762,1,Bengal
+train,169,7,Basset Hound
+train,481,4,British Shorthair
+train,686,7,Basset Hound
+train,411,9,Boxer
+train,1414,8,Beagle
+train,1971,4,British Shorthair
+train,1298,7,Basset Hound
+train,150,7,Basset Hound
+train,1262,6,American Pit Bull Terrier
+train,858,3,Bombay
+train,759,1,Bengal
+train,1124,5,American Bulldog
+train,197,7,Basset Hound
+train,1040,0,Abyssinian
+train,709,8,Beagle
+train,255,1,Bengal
+train,1717,3,Bombay
+train,40,0,Abyssinian
+train,0,0,Abyssinian
+train,1899,4,British Shorthair
+train,606,6,American Pit Bull Terrier
+train,1272,6,American Pit Bull Terrier
+train,1529,1,Bengal
+train,1795,9,Boxer
+train,1693,2,Birman
+train,1119,5,American Bulldog
+train,1970,4,British Shorthair
+train,1370,7,Basset Hound
+train,1364,7,Basset Hound
+train,574,5,American Bulldog
+train,1253,6,American Pit Bull Terrier
+train,1849,9,Boxer
+train,240,8,Beagle
+train,843,2,Birman
+train,1574,1,Bengal
+train,1782,9,Boxer
+train,1755,3,Bombay
+train,1696,3,Bombay
+train,1588,1,Bengal
+train,118,6,American Pit Bull Terrier
+train,719,8,Beagle
+train,819,2,Birman
+train,1420,8,Beagle
+train,591,5,American Bulldog
+train,440,9,Boxer
+train,812,2,Birman
+train,1480,8,Beagle
+train,1753,3,Bombay
+train,743,8,Beagle
+train,993,4,British Shorthair
+train,963,4,British Shorthair
+train,1297,7,Basset Hound
+train,672,7,Basset Hound
+train,845,2,Birman
+train,1169,5,American Bulldog
+train,428,9,Boxer
+train,44,0,Abyssinian
+train,1859,9,Boxer
+train,1548,1,Bengal
+train,770,1,Bengal
+train,1959,4,British Shorthair
+train,1401,8,Beagle
+train,1206,6,American Pit Bull Terrier
+train,688,7,Basset Hound
+train,1122,5,American Bulldog
+train,1407,8,Beagle
+train,1728,3,Bombay
+train,1597,2,Birman
+train,1604,2,Birman
+train,692,7,Basset Hound
+train,1444,8,Beagle
+train,295,1,Bengal
+train,1624,2,Birman
+train,1583,1,Bengal
+train,1680,2,Birman
+train,986,4,British Shorthair
+train,1974,4,British Shorthair
+train,43,0,Abyssinian
+train,337,2,Birman
+train,854,3,Bombay
+train,308,2,Birman
+train,913,9,Boxer
+train,555,5,American Bulldog
+train,257,1,Bengal
+train,1762,3,Bombay
+train,388,3,Bombay
+train,1917,4,British Shorthair
+train,367,3,Bombay
+train,394,3,Bombay
+train,325,2,Birman
+train,274,1,Bengal
+train,721,8,Beagle
+train,1388,7,Basset Hound
+train,954,4,British Shorthair
+train,1496,1,Bengal
+train,1618,2,Birman
+train,1209,6,American Pit Bull Terrier
+train,171,7,Basset Hound
+train,1307,7,Basset Hound
+train,1559,1,Bengal
+train,785,1,Bengal
+train,1968,4,British Shorthair
+train,205,8,Beagle
+train,226,8,Beagle
+train,438,9,Boxer
+train,822,2,Birman
+train,392,3,Bombay
+train,1400,8,Beagle
+train,816,2,Birman
+train,1376,7,Basset Hound
+train,139,6,American Pit Bull Terrier
+train,366,3,Bombay
+train,1295,7,Basset Hound
+train,1274,6,American Pit Bull Terrier
+train,1057,0,Abyssinian
+train,184,7,Basset Hound
+train,534,0,Abyssinian
+train,1470,8,Beagle
+train,618,6,American Pit Bull Terrier
+train,1621,2,Birman
+train,1488,8,Beagle
+train,1355,7,Basset Hound
+train,658,7,Basset Hound
+train,1276,6,American Pit Bull Terrier
+train,1260,6,American Pit Bull Terrier
+train,1483,8,Beagle
+train,1198,6,American Pit Bull Terrier
+train,1032,0,Abyssinian
+train,1202,6,American Pit Bull Terrier
+train,1579,1,Bengal
+train,1860,9,Boxer
+train,1196,6,American Pit Bull Terrier
+train,1484,8,Beagle
+train,580,5,American Bulldog
+train,592,5,American Bulldog
+train,1797,9,Boxer
+train,1677,2,Birman
+train,427,9,Boxer
+train,1511,1,Bengal
+train,1408,8,Beagle
+train,1123,5,American Bulldog
+train,1304,7,Basset Hound
+train,897,9,Boxer
+train,520,0,Abyssinian
+train,1031,0,Abyssinian
+train,969,4,British Shorthair
+train,1904,4,British Shorthair
+train,1435,8,Beagle
+train,23,0,Abyssinian
+train,1395,8,Beagle
+train,307,2,Birman
+train,1038,0,Abyssinian
+train,18,0,Abyssinian
+train,292,1,Bengal
+train,1044,0,Abyssinian
+train,977,4,British Shorthair
+train,907,9,Boxer
+train,1389,7,Basset Hound
+train,413,9,Boxer
+train,1459,8,Beagle
+train,698,7,Basset Hound
+train,1204,6,American Pit Bull Terrier
+train,1707,3,Bombay
+train,71,5,American Bulldog
+train,1184,5,American Bulldog
+train,298,1,Bengal
+train,1399,8,Beagle
+train,230,8,Beagle
+train,158,7,Basset Hound
+train,1975,4,British Shorthair
+train,1932,4,British Shorthair
+train,354,3,Bombay
+train,1460,8,Beagle
+train,1340,7,Basset Hound
+train,598,5,American Bulldog
+train,416,9,Boxer
+train,262,1,Bengal
+train,405,9,Boxer
+train,1689,2,Birman
+train,1472,8,Beagle
+train,554,5,American Bulldog
+train,829,2,Birman
+train,1475,8,Beagle
+train,353,3,Bombay
+train,1320,7,Basset Hound
+train,387,3,Bombay
+train,666,7,Basset Hound
+train,1356,7,Basset Hound
+train,264,1,Bengal
+train,344,2,Birman
+train,383,3,Bombay
+train,200,8,Beagle
+train,1514,1,Bengal
+train,12,0,Abyssinian
+train,1242,6,American Pit Bull Terrier
+train,217,8,Beagle
+train,234,8,Beagle
+train,1193,5,American Bulldog
+train,749,1,Bengal
+train,1655,2,Birman
+train,306,2,Birman
+train,893,3,Bombay
+train,1976,4,British Shorthair
+train,1799,9,Boxer
+train,172,7,Basset Hound
+train,1372,7,Basset Hound
+train,290,1,Bengal
+train,355,3,Bombay
+train,1294,7,Basset Hound
+train,594,5,American Bulldog
+train,1734,3,Bombay
+train,1021,0,Abyssinian
+train,1711,3,Bombay
+train,199,7,Basset Hound
+train,76,5,American Bulldog
+train,1090,0,Abyssinian
+train,78,5,American Bulldog
+train,1938,4,British Shorthair
+train,571,5,American Bulldog
+train,1632,2,Birman
+train,737,8,Beagle
+train,1249,6,American Pit Bull Terrier
+train,1563,1,Bengal
+train,735,8,Beagle
+train,526,0,Abyssinian
+train,687,7,Basset Hound
+train,863,3,Bombay
+train,1106,5,American Bulldog
+train,1678,2,Birman
+train,991,4,British Shorthair
+train,924,9,Boxer
+train,50,5,American Bulldog
+train,681,7,Basset Hound
+train,1452,8,Beagle
+train,1721,3,Bombay
+train,488,4,British Shorthair
+train,757,1,Bengal
+train,1823,9,Boxer
+train,1931,4,British Shorthair
+train,1623,2,Birman
+train,1729,3,Bombay
+train,170,7,Basset Hound
+train,1268,6,American Pit Bull Terrier
+train,382,3,Bombay
+train,22,0,Abyssinian
+train,25,0,Abyssinian
+train,738,8,Beagle
+train,1759,3,Bombay
+train,899,9,Boxer
+train,651,7,Basset Hound
+train,1821,9,Boxer
+train,1773,3,Bombay
+train,1347,7,Basset Hound
+train,1210,6,American Pit Bull Terrier
+train,237,8,Beagle
+train,1257,6,American Pit Bull Terrier
+train,1466,8,Beagle
+train,1587,1,Bengal
+train,1357,7,Basset Hound
+train,1855,9,Boxer
+train,1288,6,American Pit Bull Terrier
+train,33,0,Abyssinian
+train,1507,1,Bengal
+train,1880,9,Boxer
+train,1508,1,Bengal
+train,407,9,Boxer
+train,263,1,Bengal
+train,1226,6,American Pit Bull Terrier
+train,1050,0,Abyssinian
+train,1856,9,Boxer
+train,498,4,British Shorthair
+train,1801,9,Boxer
+train,1450,8,Beagle
+train,125,6,American Pit Bull Terrier
+train,1348,7,Basset Hound
+train,1342,7,Basset Hound
+train,1067,0,Abyssinian
+train,471,4,British Shorthair
+train,461,4,British Shorthair
+train,1002,0,Abyssinian
+train,726,8,Beagle
+train,1872,9,Boxer
+train,1713,3,Bombay
+train,1586,1,Bengal
+train,1426,8,Beagle
+train,745,8,Beagle
+train,914,9,Boxer
+train,242,8,Beagle
+train,1536,1,Bengal
+train,1806,9,Boxer
+train,1215,6,American Pit Bull Terrier
+train,378,3,Bombay
+train,1430,8,Beagle
+train,1132,5,American Bulldog
+train,1410,8,Beagle
+train,818,2,Birman
+train,419,9,Boxer
+train,1126,5,American Bulldog
+train,1079,0,Abyssinian
+train,1718,3,Bombay
+train,1453,8,Beagle
+train,1120,5,American Bulldog
+train,1769,3,Bombay
+train,1191,5,American Bulldog
+train,667,7,Basset Hound
+train,1144,5,American Bulldog
+train,1703,3,Bombay
+train,1349,7,Basset Hound
+train,343,2,Birman
+train,1877,9,Boxer
+train,247,8,Beagle
+train,1652,2,Birman
+train,831,2,Birman
+train,1802,9,Boxer
+train,1962,4,British Shorthair
+train,1429,8,Beagle
+train,1980,4,British Shorthair
+train,1635,2,Birman
+train,277,1,Bengal
+train,894,3,Bombay
+train,1382,7,Basset Hound
+train,1881,4,British Shorthair
+train,189,7,Basset Hound
+train,1214,6,American Pit Bull Terrier
+train,1049,0,Abyssinian
+train,479,4,British Shorthair
+train,1863,9,Boxer
+train,385,3,Bombay
+train,972,4,British Shorthair
+train,1534,1,Bengal
+train,1614,2,Birman
+train,177,7,Basset Hound
+train,1628,2,Birman
+train,1736,3,Bombay
+train,712,8,Beagle
+train,519,0,Abyssinian
+train,809,2,Birman
+train,967,4,British Shorthair
+train,1489,8,Beagle
+train,69,5,American Bulldog
+train,239,8,Beagle
+train,1650,2,Birman
+train,1039,0,Abyssinian
+train,335,2,Birman
+train,683,7,Basset Hound
+train,1016,0,Abyssinian
+train,70,5,American Bulldog
+train,280,1,Bengal
+train,259,1,Bengal
+train,851,3,Bombay
+train,880,3,Bombay
+train,124,6,American Pit Bull Terrier
+train,1840,9,Boxer
+train,1900,4,British Shorthair
+train,1099,5,American Bulldog
+train,207,8,Beagle
+train,368,3,Bombay
+train,192,7,Basset Hound
+train,1966,4,British Shorthair
+train,1018,0,Abyssinian
+train,827,2,Birman
+train,93,5,American Bulldog
+train,1811,9,Boxer
+train,176,7,Basset Hound
+train,1945,4,British Shorthair
+train,741,8,Beagle
+train,1683,2,Birman
+train,974,4,British Shorthair
+train,436,9,Boxer
+train,1668,2,Birman
+train,94,5,American Bulldog
+train,1332,7,Basset Hound
+train,865,3,Bombay
+train,740,8,Beagle
+train,472,4,British Shorthair
+train,269,1,Bengal
+train,585,5,American Bulldog
+train,105,6,American Pit Bull Terrier
+train,875,3,Bombay
+train,386,3,Bombay
+train,671,7,Basset Hound
+train,949,4,British Shorthair
+train,179,7,Basset Hound
+train,1967,4,British Shorthair
+train,1405,8,Beagle
+train,1336,7,Basset Hound
+train,1738,3,Bombay
+train,62,5,American Bulldog
+train,1979,4,British Shorthair
+train,1888,4,British Shorthair
+train,1943,4,British Shorthair
+train,1885,4,British Shorthair
+train,1853,9,Boxer
+train,869,3,Bombay
+train,463,4,British Shorthair
+train,1883,4,British Shorthair
+train,1498,1,Bengal
+train,1318,7,Basset Hound
+train,109,6,American Pit Bull Terrier
+train,1502,1,Bengal
+train,1265,6,American Pit Bull Terrier
+train,223,8,Beagle
+train,1425,8,Beagle
+train,675,7,Basset Hound
+train,885,3,Bombay
+train,1941,4,British Shorthair
+train,509,0,Abyssinian
+train,632,6,American Pit Bull Terrier
+train,1864,9,Boxer
+train,652,7,Basset Hound
+train,1143,5,American Bulldog
+train,781,1,Bengal
+train,983,4,British Shorthair
+train,981,4,British Shorthair
+train,1596,2,Birman
+train,1351,7,Basset Hound
+train,1077,0,Abyssinian
+train,370,3,Bombay
+train,1392,7,Basset Hound
+train,944,9,Boxer
+train,579,5,American Bulldog
+train,700,8,Beagle
+train,1239,6,American Pit Bull Terrier
+train,920,9,Boxer
+train,1805,9,Boxer
+train,966,4,British Shorthair
+train,1437,8,Beagle
+train,704,8,Beagle
+train,996,0,Abyssinian
+train,121,6,American Pit Bull Terrier
+train,1603,2,Birman
+train,1697,3,Bombay
+train,444,9,Boxer
+train,1602,2,Birman
+train,113,6,American Pit Bull Terrier
+train,1531,1,Bengal
+train,612,6,American Pit Bull Terrier
+train,1299,7,Basset Hound
+train,705,8,Beagle
+train,327,2,Birman
+train,1005,0,Abyssinian
+train,1973,4,British Shorthair
+train,1868,9,Boxer
+train,9,0,Abyssinian
+train,1925,4,British Shorthair
+train,1062,0,Abyssinian
+train,699,8,Beagle
+train,1836,9,Boxer
+train,1428,8,Beagle
+train,56,5,American Bulldog
+train,1790,9,Boxer
+train,348,2,Birman
+train,1325,7,Basset Hound
+train,1267,6,American Pit Bull Terrier
+train,58,5,American Bulldog
+train,1700,3,Bombay
+train,1566,1,Bengal
+train,590,5,American Bulldog
+train,1600,2,Birman
+train,1051,0,Abyssinian
+train,99,5,American Bulldog
+train,1141,5,American Bulldog
+train,1608,2,Birman
+train,707,8,Beagle
+train,1469,8,Beagle
+train,341,2,Birman
+train,649,7,Basset Hound
+train,1924,4,British Shorthair
+train,342,2,Birman
+train,1073,0,Abyssinian
+train,1306,7,Basset Hound
+train,1777,3,Bombay
+train,1246,6,American Pit Bull Terrier
+train,1669,2,Birman
+train,1726,3,Bombay
+train,801,2,Birman
+train,646,6,American Pit Bull Terrier
+train,542,0,Abyssinian
+train,1183,5,American Bulldog
+train,1321,7,Basset Hound
+train,935,9,Boxer
+train,340,2,Birman
+train,739,8,Beagle
+train,1059,0,Abyssinian
+train,1952,4,British Shorthair
+train,1464,8,Beagle
+train,729,8,Beagle
+train,1905,4,British Shorthair
+train,373,3,Bombay
+train,1166,5,American Bulldog
+train,1664,2,Birman
+train,1013,0,Abyssinian
+train,187,7,Basset Hound
+train,1238,6,American Pit Bull Terrier
+train,1221,6,American Pit Bull Terrier
+train,643,6,American Pit Bull Terrier
+train,180,7,Basset Hound
+train,161,7,Basset Hound
+train,149,6,American Pit Bull Terrier
+train,928,9,Boxer
+train,4,0,Abyssinian
+train,314,2,Birman
+train,1151,5,American Bulldog
+train,349,2,Birman
+train,1922,4,British Shorthair
+train,112,6,American Pit Bull Terrier
+train,1236,6,American Pit Bull Terrier
+train,1573,1,Bengal
+train,65,5,American Bulldog
+train,198,7,Basset Hound
+train,661,7,Basset Hound
+train,1112,5,American Bulldog
+train,1705,3,Bombay
+train,75,5,American Bulldog
+train,934,9,Boxer
+train,122,6,American Pit Bull Terrier
+train,1870,9,Boxer
+train,168,7,Basset Hound
+train,334,2,Birman
+train,504,0,Abyssinian
+train,381,3,Bombay
+train,731,8,Beagle
+train,426,9,Boxer
+train,193,7,Basset Hound
+train,874,3,Bombay
+train,210,8,Beagle
+train,980,4,British Shorthair
+train,975,4,British Shorthair
+train,1155,5,American Bulldog
+train,573,5,American Bulldog
+train,1396,8,Beagle
+train,201,8,Beagle
+train,984,4,British Shorthair
+train,563,5,American Bulldog
+train,673,7,Basset Hound
+train,1419,8,Beagle
+train,316,2,Birman
+train,1317,7,Basset Hound
+train,940,9,Boxer
+train,1377,7,Basset Hound
+train,1785,9,Boxer
+train,1398,8,Beagle
+train,679,7,Basset Hound
+train,1185,5,American Bulldog
+train,55,5,American Bulldog
+train,324,2,Birman
+validation,758,1,Bengal
+validation,773,1,Bengal
+validation,323,2,Birman
+validation,1846,9,Boxer
+validation,929,9,Boxer
+validation,466,4,British Shorthair
+validation,855,3,Bombay
+validation,548,0,Abyssinian
+validation,14,0,Abyssinian
+validation,1807,9,Boxer
+validation,1670,2,Birman
+validation,1741,3,Bombay
+validation,791,1,Bengal
+validation,1345,7,Basset Hound
+validation,1310,7,Basset Hound
+validation,570,5,American Bulldog
+validation,1128,5,American Bulldog
+validation,1366,7,Basset Hound
+validation,1402,8,Beagle
+validation,448,9,Boxer
+validation,824,2,Birman
+validation,939,9,Boxer
+validation,1927,4,British Shorthair
+validation,810,2,Birman
+validation,1657,2,Birman
+validation,1346,7,Basset Hound
+validation,8,0,Abyssinian
+validation,1779,3,Bombay
+validation,1147,5,American Bulldog
+validation,901,9,Boxer
+validation,231,8,Beagle
+validation,1065,0,Abyssinian
+validation,1522,1,Bengal
+validation,1129,5,American Bulldog
+validation,347,2,Birman
+validation,1296,7,Basset Hound
+validation,747,8,Beagle
+validation,64,5,American Bulldog
+validation,945,9,Boxer
+validation,206,8,Beagle
+validation,495,4,British Shorthair
+validation,1003,0,Abyssinian
+validation,1813,9,Boxer
+validation,1261,6,American Pit Bull Terrier
+validation,512,0,Abyssinian
+validation,435,9,Boxer
+validation,1066,0,Abyssinian
+validation,896,9,Boxer
+validation,455,4,British Shorthair
+validation,811,2,Birman
+validation,1449,8,Beagle
+validation,1359,7,Basset Hound
+validation,1907,4,British Shorthair
+validation,166,7,Basset Hound
+validation,1030,0,Abyssinian
+validation,1817,9,Boxer
+validation,1565,1,Bengal
+validation,985,4,British Shorthair
+validation,101,6,American Pit Bull Terrier
+validation,396,3,Bombay
+validation,1758,3,Bombay
+validation,63,5,American Bulldog
+validation,287,1,Bengal
+validation,1230,6,American Pit Bull Terrier
+validation,1330,7,Basset Hound
+validation,1756,3,Bombay
+validation,795,1,Bengal
+validation,183,7,Basset Hound
+validation,718,8,Beagle
+validation,958,4,British Shorthair
+validation,128,6,American Pit Bull Terrier
+validation,1663,2,Birman
+validation,860,3,Bombay
+validation,1240,6,American Pit Bull Terrier
+validation,1192,5,American Bulldog
+validation,1800,9,Boxer
+validation,110,6,American Pit Bull Terrier
+validation,106,6,American Pit Bull Terrier
+validation,1451,8,Beagle
+validation,420,9,Boxer
+validation,1599,2,Birman
+validation,1675,2,Birman
+validation,634,6,American Pit Bull Terrier
+validation,848,2,Birman
+validation,881,3,Bombay
+validation,1572,1,Bengal
+validation,442,9,Boxer
+validation,891,3,Bombay
+validation,1895,4,British Shorthair
+validation,1154,5,American Bulldog
+validation,443,9,Boxer
+validation,365,3,Bombay
+validation,1891,4,British Shorthair
+validation,328,2,Birman
+validation,1592,1,Bengal
+validation,451,4,British Shorthair
+validation,321,2,Birman
+validation,1672,2,Birman
+validation,1222,6,American Pit Bull Terrier
+validation,551,5,American Bulldog
+validation,622,6,American Pit Bull Terrier
+validation,1647,2,Birman
+validation,1940,4,British Shorthair
+validation,163,7,Basset Hound
+validation,1071,0,Abyssinian
+validation,898,9,Boxer
+validation,1454,8,Beagle
+validation,1710,3,Bombay
+validation,1492,8,Beagle
+validation,1757,3,Bombay
+validation,350,3,Bombay
+validation,1828,9,Boxer
+validation,900,9,Boxer
+validation,1569,1,Bengal
+validation,449,4,British Shorthair
+validation,640,6,American Pit Bull Terrier
+validation,994,4,British Shorthair
+validation,1369,7,Basset Hound
+validation,1409,8,Beagle
+validation,844,2,Birman
+validation,1150,5,American Bulldog
+validation,225,8,Beagle
+validation,260,1,Bengal
+validation,780,1,Bengal
+validation,1765,3,Bombay
+validation,943,9,Boxer
+validation,1212,6,American Pit Bull Terrier
+validation,1613,2,Birman
+validation,48,0,Abyssinian
+validation,767,1,Bengal
+validation,633,6,American Pit Bull Terrier
+validation,1770,3,Bombay
+validation,1620,2,Birman
+validation,1418,8,Beagle
+validation,1630,2,Birman
+validation,412,9,Boxer
+validation,1027,0,Abyssinian
+validation,602,6,American Pit Bull Terrier
+validation,186,7,Basset Hound
+validation,1812,9,Boxer
+validation,377,3,Bombay
+validation,502,0,Abyssinian
+validation,1557,1,Bengal
+validation,1901,4,British Shorthair
+validation,379,3,Bombay
+validation,732,8,Beagle
+validation,1750,3,Bombay
+validation,999,0,Abyssinian
+validation,1521,1,Bengal
+validation,817,2,Birman
+validation,303,2,Birman
+validation,20,0,Abyssinian
+validation,840,2,Birman
+validation,507,0,Abyssinian
+validation,626,6,American Pit Bull Terrier
+validation,1662,2,Birman
+validation,613,6,American Pit Bull Terrier
+validation,258,1,Bengal
+validation,460,4,British Shorthair
+validation,1486,8,Beagle
+validation,903,9,Boxer
+validation,1037,0,Abyssinian
+validation,1309,7,Basset Hound
+validation,508,0,Abyssinian
+validation,696,7,Basset Hound
+validation,605,6,American Pit Bull Terrier
+validation,390,3,Bombay
+validation,1637,2,Birman
+validation,181,7,Basset Hound
+validation,288,1,Bengal
+validation,1540,1,Bengal
+validation,216,8,Beagle
+validation,1104,5,American Bulldog
+validation,1384,7,Basset Hound
+validation,1411,8,Beagle
+validation,72,5,American Bulldog
+validation,1532,1,Bengal
+validation,1754,3,Bombay
+validation,529,0,Abyssinian
+validation,1205,6,American Pit Bull Terrier
+validation,752,1,Bengal
+validation,711,8,Beagle
+validation,1448,8,Beagle
+validation,1391,7,Basset Hound
+validation,670,7,Basset Hound
+validation,430,9,Boxer
+validation,998,0,Abyssinian
+validation,746,8,Beagle
+validation,1174,5,American Bulldog
+validation,566,5,American Bulldog
+validation,1731,3,Bombay
+validation,532,0,Abyssinian
+validation,418,9,Boxer
+validation,21,0,Abyssinian
+validation,1353,7,Basset Hound
+validation,911,9,Boxer
+validation,1088,0,Abyssinian
+validation,1390,7,Basset Hound
+validation,1513,1,Bengal
+validation,1301,7,Basset Hound
+validation,162,7,Basset Hound
+validation,1127,5,American Bulldog
+validation,956,4,British Shorthair
+validation,1001,0,Abyssinian
+validation,1556,1,Bengal
+validation,744,8,Beagle
+validation,402,9,Boxer
+validation,134,6,American Pit Bull Terrier
+validation,1080,0,Abyssinian
+validation,1913,4,British Shorthair
+validation,576,5,American Bulldog
+validation,1255,6,American Pit Bull Terrier
+validation,1313,7,Basset Hound
+validation,1910,4,British Shorthair
+validation,1684,2,Birman
+validation,91,5,American Bulldog
+validation,1558,1,Bengal
+validation,1473,8,Beagle
+validation,401,9,Boxer
+validation,1186,5,American Bulldog
+validation,727,8,Beagle
+validation,1541,1,Bengal
+validation,213,8,Beagle
+validation,496,4,British Shorthair
+validation,395,3,Bombay
+validation,1139,5,American Bulldog
+validation,1140,5,American Bulldog
+validation,1581,1,Bengal
+validation,1111,5,American Bulldog
+validation,359,3,Bombay
+validation,1285,6,American Pit Bull Terrier
+validation,1217,6,American Pit Bull Terrier
+validation,1699,3,Bombay
+validation,135,6,American Pit Bull Terrier
+validation,988,4,British Shorthair
+validation,1084,0,Abyssinian
+validation,1493,8,Beagle
+validation,398,3,Bombay
+validation,1965,4,British Shorthair
+validation,1594,2,Birman
+validation,1233,6,American Pit Bull Terrier
+validation,221,8,Beagle
+validation,564,5,American Bulldog
+validation,1561,1,Bengal
+validation,736,8,Beagle
+validation,1368,7,Basset Hound
+validation,1427,8,Beagle
+validation,1844,9,Boxer
+validation,595,5,American Bulldog
+validation,1271,6,American Pit Bull Terrier
+validation,989,4,British Shorthair
+validation,410,9,Boxer
+validation,17,0,Abyssinian
+validation,300,2,Birman
+validation,1228,6,American Pit Bull Terrier
+validation,879,3,Bombay
+validation,1181,5,American Bulldog
+validation,1213,6,American Pit Bull Terrier
+validation,722,8,Beagle
+validation,841,2,Birman
+validation,469,4,British Shorthair
+validation,159,7,Basset Hound
+validation,1956,4,British Shorthair
+validation,965,4,British Shorthair
+validation,1102,5,American Bulldog
+validation,1029,0,Abyssinian
+validation,536,0,Abyssinian
+validation,104,6,American Pit Bull Terrier
+validation,1837,9,Boxer
+validation,1116,5,American Bulldog
+validation,1153,5,American Bulldog
+validation,1978,4,British Shorthair
+validation,1180,5,American Bulldog
+validation,1076,0,Abyssinian
+validation,1371,7,Basset Hound
+validation,249,8,Beagle
+validation,1676,2,Birman
+validation,34,0,Abyssinian
+validation,838,2,Birman
+validation,1441,8,Beagle
+validation,973,4,British Shorthair
+validation,1334,7,Basset Hound
+validation,657,7,Basset Hound
+validation,1316,7,Basset Hound
+validation,1187,5,American Bulldog
+validation,1977,4,British Shorthair
+validation,474,4,British Shorthair
+validation,677,7,Basset Hound
+validation,119,6,American Pit Bull Terrier
+validation,1577,1,Bengal
+validation,107,6,American Pit Bull Terrier
+validation,1744,3,Bombay
+validation,796,1,Bengal
+validation,273,1,Bengal
+validation,453,4,British Shorthair
+validation,572,5,American Bulldog
+validation,1590,1,Bengal
+test,1516,1,Bengal
+test,873,3,Bombay
+test,1570,1,Bengal
+test,581,5,American Bulldog
+test,1314,7,Basset Hound
+test,1889,4,British Shorthair
+test,332,2,Birman
+test,635,6,American Pit Bull Terrier
+test,1172,5,American Bulldog
+test,212,8,Beagle
+test,1611,2,Birman
+test,1712,3,Bombay
+test,540,0,Abyssinian
+test,1953,4,British Shorthair
+test,1158,5,American Bulldog
+test,1006,0,Abyssinian
+test,1339,7,Basset Hound
+test,904,9,Boxer
+test,153,7,Basset Hound
+test,1576,1,Bengal
+test,196,7,Basset Hound
+test,1134,5,American Bulldog
+test,49,0,Abyssinian
+test,1282,6,American Pit Bull Terrier
+test,1412,8,Beagle
+test,59,5,American Bulldog
+test,1617,2,Birman
+test,1928,4,British Shorthair
+test,1056,0,Abyssinian
+test,1847,9,Boxer
+test,291,1,Bengal
+test,1289,6,American Pit Bull Terrier
+test,1328,7,Basset Hound
+test,1148,5,American Bulldog
+test,946,4,British Shorthair
+test,1831,9,Boxer
+test,1167,5,American Bulldog
+test,636,6,American Pit Bull Terrier
+test,393,3,Bombay
+test,927,9,Boxer
+test,81,5,American Bulldog
+test,1761,3,Bombay
+test,338,2,Birman
+test,1505,1,Bengal
+test,859,3,Bombay
+test,482,4,British Shorthair
+test,1074,0,Abyssinian
+test,1969,4,British Shorthair
+test,1254,6,American Pit Bull Terrier
+test,1552,1,Bengal
+test,506,0,Abyssinian
+test,584,5,American Bulldog
+test,794,1,Bengal
+test,423,9,Boxer
+test,1854,9,Boxer
+test,1887,4,British Shorthair
+test,1237,6,American Pit Bull Terrier
+test,357,3,Bombay
+test,1631,2,Birman
+test,680,7,Basset Hound
+test,1610,2,Birman
+test,1290,6,American Pit Bull Terrier
+test,644,6,American Pit Bull Terrier
+test,1273,6,American Pit Bull Terrier
+test,987,4,British Shorthair
+test,252,1,Bengal
+test,1352,7,Basset Hound
+test,1156,5,American Bulldog
+test,1719,3,Bombay
+test,1235,6,American Pit Bull Terrier
+test,499,0,Abyssinian
+test,1497,1,Bengal
+test,1746,3,Bombay
+test,1679,2,Birman
+test,694,7,Basset Hound
+test,1681,2,Birman
+test,1092,0,Abyssinian
+test,1950,4,British Shorthair
+test,1714,3,Bombay
+test,797,1,Bengal
+test,1538,1,Bengal
+test,145,6,American Pit Bull Terrier
+test,1443,8,Beagle
+test,641,6,American Pit Bull Terrier
+test,1760,3,Bombay
+test,1622,2,Birman
+test,1816,9,Boxer
+test,716,8,Beagle
+test,54,5,American Bulldog
+test,1786,9,Boxer
+test,1308,7,Basset Hound
+test,1218,6,American Pit Bull Terrier
+test,706,8,Beagle
+test,1740,3,Bombay
+test,1591,1,Bengal
+test,146,6,American Pit Bull Terrier
+test,1776,3,Bombay
+test,1822,9,Boxer
+test,1012,0,Abyssinian
+test,1118,5,American Bulldog
+test,768,1,Bengal
+test,3,0,Abyssinian
+test,214,8,Beagle
+test,1373,7,Basset Hound
+test,630,6,American Pit Bull Terrier
+test,951,4,British Shorthair
+test,236,8,Beagle
+test,537,0,Abyssinian
+test,1829,9,Boxer
+test,1406,8,Beagle
+test,1324,7,Basset Hound
+test,1733,3,Bombay
+test,1789,9,Boxer
+test,1533,1,Bengal
+test,361,3,Bombay
+test,684,7,Basset Hound
+test,1509,1,Bengal
+test,1827,9,Boxer
+test,1361,7,Basset Hound
+test,433,9,Boxer
+test,1438,8,Beagle
+test,599,6,American Pit Bull Terrier
+test,1097,5,American Bulldog
+test,932,9,Boxer
+test,484,4,British Shorthair
+test,1835,9,Boxer
+test,195,7,Basset Hound
+test,1,0,Abyssinian
+test,363,3,Bombay
+test,476,4,British Shorthair
+test,766,1,Bengal
+test,89,5,American Bulldog
+test,1698,3,Bombay
+test,921,9,Boxer
+test,188,7,Basset Hound
+test,1159,5,American Bulldog
+test,1280,6,American Pit Bull Terrier
+test,238,8,Beagle
+test,315,2,Birman
+test,1936,4,British Shorthair
+test,1136,5,American Bulldog
+test,561,5,American Bulldog
+test,1949,4,British Shorthair
+test,1434,8,Beagle
+test,647,6,American Pit Bull Terrier
+test,1138,5,American Bulldog
+test,1053,0,Abyssinian
+test,1190,5,American Bulldog
+test,1085,0,Abyssinian
+test,1763,3,Bombay
+test,523,0,Abyssinian
+test,1638,2,Birman
+test,1775,3,Bombay
+test,1157,5,American Bulldog
+test,750,1,Bengal
+test,1471,8,Beagle
+test,603,6,American Pit Bull Terrier
+test,211,8,Beagle
+test,601,6,American Pit Bull Terrier
+test,1544,1,Bengal
+test,1654,2,Birman
+test,203,8,Beagle
+test,1954,4,British Shorthair
+test,1772,3,Bombay
+test,1671,2,Birman
+test,660,7,Basset Hound
+test,834,2,Birman
+test,256,1,Bengal
+test,228,8,Beagle
+test,1457,8,Beagle
+test,82,5,American Bulldog
+test,615,6,American Pit Bull Terrier
+test,1869,9,Boxer
+test,456,4,British Shorthair
+test,501,0,Abyssinian
+test,1083,0,Abyssinian
+test,842,2,Birman
+test,1432,8,Beagle
+test,1648,2,Birman
+test,1619,2,Birman
+test,1633,2,Birman
+test,691,7,Basset Hound
+test,560,5,American Bulldog
+test,439,9,Boxer
+test,1958,4,British Shorthair
+test,1160,5,American Bulldog
+test,976,4,British Shorthair
+test,88,5,American Bulldog
+test,503,0,Abyssinian
+test,13,0,Abyssinian
+test,1125,5,American Bulldog
+test,1397,8,Beagle
+test,565,5,American Bulldog
+test,1803,9,Boxer
+test,1640,2,Birman
+test,384,3,Bombay
+test,494,4,British Shorthair
+test,938,9,Boxer
+test,297,1,Bengal
+test,251,1,Bengal
+test,833,2,Birman
+test,493,4,British Shorthair
+test,309,2,Birman
+test,7,0,Abyssinian
+test,1506,1,Bengal
+test,486,4,British Shorthair
+test,942,9,Boxer
+test,1075,0,Abyssinian
+test,1017,0,Abyssinian
+test,1808,9,Boxer
+test,447,9,Boxer
+test,1146,5,American Bulldog
+test,1487,8,Beagle
+test,1893,4,British Shorthair
+test,1578,1,Bengal
+test,587,5,American Bulldog
+test,165,7,Basset Hound
+test,37,0,Abyssinian
+test,462,4,British Shorthair
+test,1258,6,American Pit Bull Terrier
+test,682,7,Basset Hound
+test,136,6,American Pit Bull Terrier
+test,1293,6,American Pit Bull Terrier
+test,1446,8,Beagle
+test,620,6,American Pit Bull Terrier
+test,1413,8,Beagle
+test,369,3,Bombay
+test,1768,3,Bombay
+test,1902,4,British Shorthair
+test,1615,2,Birman
+test,1431,8,Beagle
+test,723,8,Beagle
+test,1338,7,Basset Hound
+test,941,9,Boxer
+test,318,2,Birman
+test,1404,8,Beagle
+test,653,7,Basset Hound
+test,1456,8,Beagle
+test,1553,1,Bengal
+test,1423,8,Beagle
+test,286,1,Bengal
+test,1554,1,Bengal
+test,1935,4,British Shorthair
+test,968,4,British Shorthair
+test,1517,1,Bengal
+test,87,5,American Bulldog
+test,889,3,Bombay
+test,1481,8,Beagle
+test,333,2,Birman
+test,645,6,American Pit Bull Terrier
+test,806,2,Birman
+test,1743,3,Bombay
+test,538,0,Abyssinian
+test,352,3,Bombay
+test,245,8,Beagle
+test,322,2,Birman
+test,1241,6,American Pit Bull Terrier
+test,96,5,American Bulldog
+test,175,7,Basset Hound
+test,178,7,Basset Hound
+test,1244,6,American Pit Bull Terrier
+test,1047,0,Abyssinian
+test,857,3,Bombay
+test,1537,1,Bengal
+test,346,2,Birman
+test,1319,7,Basset Hound
+test,708,8,Beagle
+test,1867,9,Boxer
+test,1524,1,Bengal
+test,1815,9,Boxer
+test,1360,7,Basset Hound
+test,1798,9,Boxer
+test,470,4,British Shorthair
+test,853,3,Bombay
+test,156,7,Basset Hound
+test,837,2,Birman
+test,1651,2,Birman
+test,1874,9,Boxer
+test,194,7,Basset Hound
+test,1026,0,Abyssinian
+test,1929,4,British Shorthair
+test,1045,0,Abyssinian
+test,1951,4,British Shorthair
+test,1643,2,Birman
+test,1344,7,Basset Hound
+test,1787,9,Boxer
+test,788,1,Bengal
+test,131,6,American Pit Bull Terrier
+test,1025,0,Abyssinian
+test,1957,4,British Shorthair
+test,1223,6,American Pit Bull Terrier
+test,1081,0,Abyssinian
+test,167,7,Basset Hound
+test,422,9,Boxer
+test,232,8,Beagle
+test,164,7,Basset Hound
+test,1715,3,Bombay
+test,521,0,Abyssinian

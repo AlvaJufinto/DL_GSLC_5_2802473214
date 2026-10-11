@@ -1,0 +1,16 @@
+{
+  "experiment": "B3_progressive_finetuning",
+  "description": "Progressive fine-tuning (with augmentation)",
+  "strategy": "B3_progressive_finetuning",
+  "trainable_parameters": 8398858,
+  "total_parameters": 11181642,
+  "learning_rates": "{\"layer4\": 0.0001, \"fc\": 0.001}",
+  "epochs_ran": 8,
+  "best_epoch": 4,
+  "duration_seconds": 194.19971499987878,
+  "validation_loss": 0.18752756601933276,
+  "validation_accuracy": 0.9528619528619529,
+  "test_macro_f1": 0.9224650231324313,
+  "generalization_gap_pp": 1.9721019721019695,
+  "checkpoint": "artifacts\\checkpoints\\B3_progressive_finetuning.pt"
+}
