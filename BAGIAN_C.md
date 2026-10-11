@@ -117,4 +117,4 @@ Untuk mendukung verifikasi hasil eksperimen, sertakan artefak berikut:
 - `artifacts/b4_generalization_gap.png`
 - CSV dan gambar failure analysis setelah sel C3 dijalankan
 
-**Pernyataan penggunaan AI.** AI digunakan untuk membantu penyusunan kerangka kode, debugging error DataLoader pada Windows, dan merapikan struktur laporan. Semua metrik diperiksa terhadap log yang tersimpan di folder `artifacts`.
+**Pernyataan penggunaan AI.** AI digunakan untuk membantu menyusun kodingan, debugging error DataLoader pada Windows, dan merapikan struktur laporan. Semua terdapat pada log yang tersimpan di folder `artifacts`.
